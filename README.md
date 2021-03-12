@@ -13,16 +13,8 @@ number = {9},
 pages = {094114},
 year = {2020},
 doi = {10.1063/5.0021488},
-
-URL = { 
-        https://doi.org/10.1063/5.0021488
-    
-},
-eprint = { 
-        https://doi.org/10.1063/5.0021488
-    
-}
-
+URL = {https://doi.org/10.1063/5.0021488},
+eprint = {https://doi.org/10.1063/5.0021488}
 }
 
 ```
