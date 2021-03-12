@@ -1,7 +1,7 @@
 # muPR
  A code for running simulations in the grand-isobaric adiabatic ensemble
 
-Here are some results obtained with the grand-isobaric adiabatic ensemble (\mu P R) on Copper. Full details on the method and simulations can be found [here](https://aip.scitation.org/doi/abs/10.1063/5.0021488)
+Here are some results obtained with the grand-isobaric adiabatic ensemble ( \mu P R) on Copper. Full details on the method and simulations can be found [here](https://aip.scitation.org/doi/abs/10.1063/5.0021488)
 The Bibtex reference is
 ```
 @article{doi:10.1063/5.0021488,
